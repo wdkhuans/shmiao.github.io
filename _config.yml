@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Hangzhou"
+  name             : "Shenghuan Miao"
+  avatar           : "profile.jpg"
+  bio              : "PhD Candidate @ ZJU"
+  location         : "Yuquan Campus, Zhejiang University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sgKMu1IAAAAJ&hl"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wdkhuans"
   google_plus      :
   keybase          :
   instagram        :
