@@ -14,16 +14,20 @@ I am currently a third-year bachelor-straight-to-PhD student in the [Pervasive C
 
 Publications & Preprints
 ======
-## 
 
----
+**Shenghuan Miao**, Ling Chen, Rong Hu, Yingsong Luo, "**[Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition](https://dl.acm.org/doi/abs/10.1145/3550331)**". Accepted by IMWUT (UbiComp 2022) [[code]](https://github.com/wdkhuans/DynamicWHAR)
 
-**Shenghuan Miao**, Ling Chen, Rong Hu, Yingsong Luo, "**[Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition](https://dl.acm.org/doi/abs/10.1145/3550331)**". 
+Ling Chen, Yi Zhang, **Shenghuan Miao**, Sirou Zhu, Rong Hu, Liangying Peng, Mingqi Lv, "**[SALIENCE: An Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition](https://arxiv.org/abs/2108.10213)**". Accepted by IEEE Transactions on Mobile Computing [[code]](https://github.com/wdkhuans/SALIENCE)
 
-Accepted by IMWUT (UbiComp 2022) [[code]](https://github.com/wdkhuans/DynamicWHAR)
+❤️ More than research
+======
 
----
+* My sweetie Yaoyao
 
-Ling Chen, Yi Zhang, **Shenghuan Miao**, Sirou Zhu, Rong Hu, Liangying Peng, Mingqi Lv, "**[SALIENCE: An Unsupervised User Adaptation Model for Multiple Wearable Sensors Based Human Activity Recognition](https://arxiv.org/abs/2108.10213)**".
+* Ball games (Especially 🏀 and ⚽)
 
-Accepted by IEEE Transactions on Mobile Computing [[code]](https://github.com/wdkhuans/SALIENCE)
+* Video games (Especially on Nintendo Switch)
+
+* Music (Especially Post Rock & Folk)
+
+* Photography （Freeze the moment with me in my [bilibili sapce](https://space.bilibili.com/294476744/video)）
