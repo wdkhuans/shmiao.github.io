@@ -15,23 +15,24 @@ I am currently a third-year bachelor-straight-to-PhD student in the [Pervasive C
 📖 Publications & Preprints
 ======
 
-[IMWUT’23] *Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (to be published)*  
+<span style="color: darkred;">[IMWUT’23]</span> *Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (to be published)*  
 **Shenghuan Miao**, Ling Chen, Rong Hu
 
-[AAAI’23] *SWL-Adapt: An Unsupervised Domain Adaptation Model with Sample Weight Learning for Cross-User Wearable Human Activity Recognition*  
+<span style="color: darkred;">[AAAI’23]</span> *SWL-Adapt: An Unsupervised Domain Adaptation Model with Sample Weight Learning for Cross-User Wearable Human Activity Recognition*  
 Rong Hu, Ling Chen, **Shenghuan Miao**, Xing Tang
 
-[Applied Intelligence’23] *A Multi-graph Convolutional Network based Wearable Human Activity Recognition Method using Multi-sensors*  
+<span style="color: darkred;">[Applied Intelligence’23]</span> *A Multi-graph Convolutional Network based Wearable Human Activity Recognition Method using Multi-sensors*  
 Ling Chen, Yingsong Luo, Liangying Peng, Rong Hu, Yi Zhang, **Shenghuan Miao**
 
-[IMWUT’22] *Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition*  
+<span style="color: darkred;">[IMWUT’22]</span> *Towards a Dynamic Inter-Sensor Correlations Learning Framework for Multi-Sensor-Based Wearable Human Activity Recognition*  
 **Shenghuan Miao**, Ling Chen, Rong Hu, Yingsong Luo
 
-[IEEE TMC’22] *SALIENCE: An Unsupervised User Adaptation Model for Multiple Wearable Sensors based Human Activity Recognition*  
+<span style="color: darkred;">[IEEE TMC’22]</span> *SALIENCE: An Unsupervised User Adaptation Model for Multiple Wearable Sensors based Human Activity Recognition*  
 Ling Chen, Yi Zhang, **Shenghuan Miao**, Sirou Zhu, Rong Hu, Liangying Peng, Mingqi Lv
 
-[Physical Communication’21] *FEM: Feature Extraction and Mapping for Radio Modulation Classification*  
+<span style="color: darkred;">[Physical Communication’21]</span> *FEM: Feature Extraction and Mapping for Radio Modulation Classification*  
 Jinyin Chen, Hui Cui, **Shenghuan Miao**, Changan Wu, Haibin Zheng, Shilian Zheng, Liang Huang, Qi Xuan
+
 
 ❤️ More than research
 ======
