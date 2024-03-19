@@ -15,7 +15,7 @@ I am currently a third-year bachelor-straight-to-PhD student in the [Pervasive C
 📖 Publications & Preprints
 ======
 
-<span style="color: darkred;">[IMWUT/UbiComp’24]</span> *Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition (to be published)*  
+<span style="color: darkred;">[IMWUT/UbiComp’24]</span> *Spatial-Temporal Masked Autoencoder for Multi-Device Wearable Human Activity Recognition*  
 **Shenghuan Miao**, Ling Chen, Rong Hu
 
 <span style="color: darkred;">[AAAI’23]</span> *SWL-Adapt: An Unsupervised Domain Adaptation Model with Sample Weight Learning for Cross-User Wearable Human Activity Recognition*  
